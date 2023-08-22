@@ -1,0 +1,3 @@
+[submodule "client/my-app"]
+    path = client/my-app
+    url = 'https://github.com/ELCBOLPL/NominaCoppel.git'
